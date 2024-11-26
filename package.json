@@ -1,0 +1,7 @@
+{
+  "name": "lerna-monorepo",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^7.0.0"
+  }
+}
