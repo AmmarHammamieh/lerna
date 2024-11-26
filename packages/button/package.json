@@ -1,5 +1,5 @@
 {
-  "name": "@remondthevam/button-test",
+  "name": "@remondthevam/button-ammar",
   "version": "0.1.14",
   "main": "dist/index.js",
   "publishConfig": {
@@ -18,5 +18,5 @@
   "devDependencies": {
     "typescript": "^5.0.0"
   },
-  "gitHead": "0157ae57cc7449324a49a21536f128be6ac60743"
+  "gitHead": "71d0a71f096a049caf1edaf809663dd6898a2764"
 }
