@@ -1,5 +1,5 @@
 {
-  "name": "@popreact/button-25",
+  "name": "@popreact/button",
   "version": "0.1.11",
   "main": "dist/index.js",
   "publishConfig": {
