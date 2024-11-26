@@ -1,5 +1,5 @@
 {
-  "name": "@remondthevam/button-23",
+  "name": "@remondthevam/button-test",
   "version": "0.1.13",
   "main": "dist/index.js",
   "publishConfig": {
@@ -18,5 +18,5 @@
   "devDependencies": {
     "typescript": "^5.0.0"
   },
-  "gitHead": "0b4cc5965347f0c944f4de8590eef829529fe9cf"
+  "gitHead": "0157ae57cc7449324a49a21536f128be6ac60743"
 }
