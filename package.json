@@ -1,6 +1,7 @@
 {
   "name": "lerna-monorepo",
-  "private": true,
+  "private": false,
+  "license": "MIT",
   "devDependencies": {
     "lerna": "^7.0.0"
   }
