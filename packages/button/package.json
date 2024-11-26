@@ -2,6 +2,9 @@
   "name": "@your-org/button",
   "version": "0.1.4",
   "main": "dist/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "files": [
     "dist"
@@ -15,5 +18,5 @@
   "devDependencies": {
     "typescript": "^5.0.0"
   },
-  "gitHead": "0c359423600dab5cc2d7347d29123fb438c8a007"
+  "gitHead": "b30c0b7ddc5ba3a929987af0c7569033b52693b8"
 }
