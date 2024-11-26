@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "buttonTest",
   "version": "0.1.7",
   "main": "dist/index.js",
   "publishConfig": {
@@ -18,5 +18,5 @@
   "devDependencies": {
     "typescript": "^5.0.0"
   },
-  "gitHead": "70d28958305da1875b9298263d389e582e7d42eb"
+  "gitHead": "e462a4e28a5b4779fac007947dc54a61909fd5bd"
 }
